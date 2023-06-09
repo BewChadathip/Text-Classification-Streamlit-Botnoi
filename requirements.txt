@@ -1,2 +1,3 @@
 pythainlp==4.0.1
 streamlit==1.22.0
+scikit-learn==1.2.2
